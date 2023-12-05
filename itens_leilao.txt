@@ -1,0 +1,9 @@
+1 canguru animal 103 250 999 nome -
+2 arroz alimentacao 1 2 99 nome -
+3 bola desporto 5 20 999 Alexandre -
+4 gato animal 1000 2500 9999 Carlos -
+5 boneca brinquedo 10 20 999 Carlos -
+6 carro veiculo 1001 2000 999 nome -
+7 banana alimentacao 2 5 999 Carlos -
+8 pessego alimentacao 3 6 10 Alexandre -
+9 bolacha alimentacao 6 12 999 Carlos -  

@@ -1,0 +1,5 @@
+# ninja log v5
+0	174	1671668565643143938	CMakeFiles/SOBay.dir/backend.c.o	6394bbdbc916e6a9
+0	81	1671663851106921375	CMakeFiles/SOBay.dir/frontend.c.o	518f3e6ca5893323
+0	144	1671832351090485097	CMakeFiles/SOBay.dir/frontend.c.o	dd03b1d0a4c3a1f
+144	332	1671832351278487934	CMakeFiles/SOBay.dir/backend.c.o	4668f9fc974331c4

@@ -1,0 +1,3 @@
+/home/carlos/Downloads/Meta2POO/cmake-build-debug/CMakeFiles/SOBay.dir
+/home/carlos/Downloads/Meta2POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carlos/Downloads/Meta2POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
